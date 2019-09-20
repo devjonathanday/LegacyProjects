@@ -1,0 +1,9 @@
+﻿  Player.cpp
+e:\gameprojects\visualstudio projects\raylibplatformer\raylibplatformer\math.h(8): warning C4091: 'static ': ignored on left of 'Math' when no variable is declared
+e:\gameprojects\visualstudio projects\raylibplatformer\raylibplatformer\player.cpp(33): error C2065: 'testGround': undeclared identifier
+e:\gameprojects\visualstudio projects\raylibplatformer\raylibplatformer\player.cpp(36): error C2065: 'testGround': undeclared identifier
+e:\gameprojects\visualstudio projects\raylibplatformer\raylibplatformer\player.cpp(48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Sector.cpp
+  main.cpp
+e:\gameprojects\visualstudio projects\raylibplatformer\raylibplatformer\math.h(8): warning C4091: 'static ': ignored on left of 'Math' when no variable is declared
+  Generating Code...

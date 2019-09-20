@@ -1,0 +1,40 @@
+﻿  Animations.cpp
+  FocalCamera.cpp
+E:\Users\jday1\Downloads\RaylibPlatformer-master\RaylibPlatformer\FocalCamera.cpp(21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Users\jday1\Downloads\RaylibPlatformer-master\RaylibPlatformer\FocalCamera.cpp(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Functions.cpp
+E:\Users\jday1\Downloads\RaylibPlatformer-master\RaylibPlatformer\Functions.cpp(5): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+E:\Users\jday1\Downloads\RaylibPlatformer-master\RaylibPlatformer\main.cpp(46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Users\jday1\Downloads\RaylibPlatformer-master\RaylibPlatformer\main.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Users\jday1\Downloads\RaylibPlatformer-master\RaylibPlatformer\main.cpp(44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Math.cpp
+E:\Users\jday1\Downloads\RaylibPlatformer-master\RaylibPlatformer\Math.h(8): warning C4091: 'static ': ignored on left of 'Math' when no variable is declared
+  Particles.cpp
+E:\Users\jday1\Downloads\RaylibPlatformer-master\RaylibPlatformer\Particles.cpp(35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Users\jday1\Downloads\RaylibPlatformer-master\RaylibPlatformer\Particles.cpp(34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PhysicsAttributes.cpp
+  Player.cpp
+  Generating Code...
+  LINK : E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\RaylibPlatformer.exe not found or not built by the last incremental link; performing full link
+raylib.lib(core.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(core.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(shapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(shapes.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(text.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(text.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(textures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(textures.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(context.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(init.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(init.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(input.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(input.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(monitor.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(monitor.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(vulkan.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(vulkan.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(window.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(window.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_init.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_init.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_joystick.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_monitor.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_time.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_time.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_thread.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(win32_window.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(win32_window.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(wgl_context.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(egl_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(egl_context.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+raylib.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw_objlib.pdb' was not found with 'raylib.lib(osmesa_context.obj)' or at 'E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\glfw_objlib.pdb'; linking object as if no debug info
+  RaylibPlatformer.vcxproj -> E:\Users\jday1\Downloads\RaylibPlatformer-master\x64\Debug\RaylibPlatformer.exe

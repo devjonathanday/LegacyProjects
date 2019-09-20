@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b186f170b0613a843b2ae61edcddcd0e
+timeCreated: 1525149268
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Exquisite
+  fontNames:
+  - Exquisite
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6aee218d1c7289c4589ae860e9a25bbb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

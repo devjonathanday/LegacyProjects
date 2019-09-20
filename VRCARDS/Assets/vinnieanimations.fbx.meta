@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: fbac93535e8cbf04d8d2503f26e2de0a
+timeCreated: 1526412974
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.002
+    100010: Bone.003
+    100012: Bone.004
+    100014: Bone.004_end
+    100016: Bone.005
+    100018: Bone.006
+    100020: Bone.007
+    100022: Bone.008
+    100024: Bone.009
+    100026: Bone.010
+    100028: Bone.011
+    100030: Bone.012
+    100032: Bone.013
+    100034: Bone.014
+    100036: Bone.014_end
+    100038: Bone.015
+    100040: Bone.016
+    100042: Bone.017
+    100044: Bone.017_end
+    100046: Bone.018
+    100048: Bone.019
+    100050: Bone.020
+    100052: Bone.020_end
+    100054: Bone.021
+    100056: Bone.022
+    100058: Bone.023
+    100060: Bone.023_end
+    100062: Bone.024
+    100064: Bone.025
+    100066: Bone.026
+    100068: Bone.026_end
+    100070: Bone.027
+    100072: Bone.028
+    100074: Bone.029
+    100076: Bone.030
+    100078: Bone.030_end
+    100080: Bone.031
+    100082: Bone.032
+    100084: Bone.033
+    100086: Bone.033_end
+    100088: Bone.034
+    100090: Bone.035
+    100092: Bone.036
+    100094: Bone.036_end
+    100096: Bone.037
+    100098: Bone.038
+    100100: Bone.039
+    100102: Bone.039_end
+    100104: Bone.040
+    100106: Bone.041
+    100108: Bone.042
+    100110: Bone.042_end
+    100112: Bottoms
+    100114: Shoes
+    100116: Tops
+    100118: //RootNode
+    400000: Armature
+    400002: Body
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.002
+    400010: Bone.003
+    400012: Bone.004
+    400014: Bone.004_end
+    400016: Bone.005
+    400018: Bone.006
+    400020: Bone.007
+    400022: Bone.008
+    400024: Bone.009
+    400026: Bone.010
+    400028: Bone.011
+    400030: Bone.012
+    400032: Bone.013
+    400034: Bone.014
+    400036: Bone.014_end
+    400038: Bone.015
+    400040: Bone.016
+    400042: Bone.017
+    400044: Bone.017_end
+    400046: Bone.018
+    400048: Bone.019
+    400050: Bone.020
+    400052: Bone.020_end
+    400054: Bone.021
+    400056: Bone.022
+    400058: Bone.023
+    400060: Bone.023_end
+    400062: Bone.024
+    400064: Bone.025
+    400066: Bone.026
+    400068: Bone.026_end
+    400070: Bone.027
+    400072: Bone.028
+    400074: Bone.029
+    400076: Bone.030
+    400078: Bone.030_end
+    400080: Bone.031
+    400082: Bone.032
+    400084: Bone.033
+    400086: Bone.033_end
+    400088: Bone.034
+    400090: Bone.035
+    400092: Bone.036
+    400094: Bone.036_end
+    400096: Bone.037
+    400098: Bone.038
+    400100: Bone.039
+    400102: Bone.039_end
+    400104: Bone.040
+    400106: Bone.041
+    400108: Bone.042
+    400110: Bone.042_end
+    400112: Bottoms
+    400114: Shoes
+    400116: Tops
+    400118: //RootNode
+    2300000: Bottoms
+    2300002: Shoes
+    3300000: Bottoms
+    3300002: Shoes
+    4300000: Tops
+    4300002: Body
+    4300004: Bottoms
+    4300006: Shoes
+    7400000: Armature|ArmatureAction
+    7400002: Card Place Animation
+    7400004: Idle Animation
+    9500000: //RootNode
+    13700000: Body
+    13700002: Tops
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PackedMaterial0
+    second: {fileID: 2100000, guid: a97e87e8b1182a043aa6836eabfb41c3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle Animation
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Card Place Animation
+      takeName: Armature|ArmatureAction
+      firstFrame: 89
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
